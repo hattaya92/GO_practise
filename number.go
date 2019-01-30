@@ -11,9 +11,7 @@ func NumberStairs(n int) {
 			fmt.Printf("%d ", j)
 		}
 		fmt.Printf("\n")
-
 	}
-
 }
 
 func main() {

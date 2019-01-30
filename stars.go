@@ -15,7 +15,6 @@ func pyramid(m int) {
 		}
 		fmt.Printf("\n")
 	}
-
 }
 
 func dimond(m int) {
